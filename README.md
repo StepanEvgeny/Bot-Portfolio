@@ -22,5 +22,13 @@
 
 *2) cd portfolio-bot*
 
-###
+### Установить библиотеки для бота
+*1) pip install python-telegram-bot*
+
+### Добавьте токен вашего бота:
+TOKEN = 'TokenBot'
+
+DATABASE = ''
+
+## Все запускайте бота!
 
